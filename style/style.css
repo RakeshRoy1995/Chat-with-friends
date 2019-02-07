@@ -1,0 +1,21 @@
+#main {
+	color: black;
+}
+
+#info {
+	color: black;
+}
+
+#info label{
+	color: black;
+}
+#info button:hover{
+	color: white;
+	background:green ;
+}
+
+/*#form1 button:hover {
+    color:white;
+    background: blue;
+}
+*/
